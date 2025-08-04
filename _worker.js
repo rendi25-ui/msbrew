@@ -5,10 +5,10 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "renzstore.web.id"; // Ganti dengan domain utama kalian
 const serviceName = "msbrew"; // Ganti dengan nama workers kalian
-const apiKey = "3074d88c1b8d6601c58434ab98e300b1ea83c"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = "rendysandyko@gmail.com"; // Ganti dengan email yang kalian gunakan
-const accountID = "5939babc2ce444d2f659543ab9129b08"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-const zoneID = "5456ee08ec932859c6569e21429ef745"; // Ga
+const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const zoneID = ""; // Ga
 let proxyIP = "";
 let cachedProxyList = [];
 
